@@ -3,7 +3,7 @@
 Reflex Test was written in Swift 3.1 in Xcode.
 This app is currently available on the AppStore: https://itunes.apple.com/us/app/reflex-test!-how-far-can-you/id1123340346?ls=1&mt=8
 
-The menu displays the players current XP and Level:
+The menu displays the players current XP, Level and High Score:
 
 ![Alt text](/ScreenShots/menu.jpg?raw=true "menu")
 
