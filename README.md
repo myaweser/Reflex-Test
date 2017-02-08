@@ -13,10 +13,10 @@ The game will speed up and get more difficult as the player progresses.
 ![Alt text](/ScreenShots/game.jpg?raw=true "game")
 
 If the player has a life they may continue from where they last finished. 
-Otherwise they mus restart.
+Otherwise they must restart.
 
 ![Alt text](/ScreenShots/gameover.jpg?raw=true "gameover")
 
-The player can complete goals in order to earn lives.
+The player can complete goals to earn lives.
 
 ![Alt text](/ScreenShots/goals.jpg?raw=true "goals")
