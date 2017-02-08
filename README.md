@@ -5,18 +5,18 @@ This app is currently available on the AppStore: https://itunes.apple.com/us/app
 
 The menu displays the players current XP and Level:
 
-![Alt text](/ScreenShots/menu.png?raw=true "menu")
+![Alt text](/ScreenShots/menu.jpg?raw=true "menu")
 
 To progress, tap the icon which is identical to the central icon that is fading away.
 The game will speed up and get more difficult as the player progresses.
 
-![Alt text](/ScreenShots/game.png?raw=true "game")
+![Alt text](/ScreenShots/game.jpg?raw=true "game")
 
 If the player has a life they may continue from where they last finished. 
 Otherwise they mus restart.
 
-![Alt text](/ScreenShots/gameover.png?raw=true "gameover")
+![Alt text](/ScreenShots/gameover.jpg?raw=true "gameover")
 
 The player can complete goals in order to earn lives.
 
-![Alt text](/ScreenShots/goals.png?raw=true "goals")
+![Alt text](/ScreenShots/goals.jpg?raw=true "goals")
