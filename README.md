@@ -1,7 +1,15 @@
 # Reflex-Test_iOS-Game_Swift
 
 Reflex Test was written in Swift 3.1 in Xcode.
+
 This app is currently available on the AppStore: https://itunes.apple.com/us/app/reflex-test!-how-far-can-you/id1123340346?ls=1&mt=8
+
+## To test
+
+* Provide a random bundle ID for the project target.
+* If testing on a simulator, assign the device name to the modelName string in the viewDidLoad function
+
+## Features
 
 The menu displays the players current XP, Level and High Score:
 
