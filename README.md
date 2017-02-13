@@ -1,8 +1,8 @@
-# Reflex-Test_iOS-Game_Swift
+# Reflex Test
 
 Reflex Test was written in Swift 3.1 in Xcode.
 
-This app is currently available on the AppStore: https://itunes.apple.com/us/app/reflex-test!-how-far-can-you/id1123340346?ls=1&mt=8
+Reflex Test is currently available on the AppStore: https://itunes.apple.com/us/app/reflex-test!-how-far-can-you/id1123340346?ls=1&mt=8
 
 ## To test
 
